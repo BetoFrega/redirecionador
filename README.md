@@ -4,7 +4,7 @@
 
 ## Why
 
-- The user must be able to see the countdown for it to make sense, and that doesn't happen with the new-tab middle-click frenzy that took over user's minds.
+- The user must be able to see the countdown for it to make sense, and that doesn't happen with the new-tab middle-click frenzy that took over users' minds.
 - Google doesn't like javascript redirects very much and Google doesn't move the mouse even when it executes javascript :)
 - Users should be able to visit the site they were originally trying to, hence the "only on the first visit" thing
 
